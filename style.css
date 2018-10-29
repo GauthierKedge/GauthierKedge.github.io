@@ -1,0 +1,19 @@
+body{
+	font-family:arial;
+	background: rgb(209, 209, 209);
+	text-align: center;
+}
+
+h1{
+	color: red;
+	font-size:12px;
+}
+
+img{
+	width: 300px;
+}
+
+a{
+	text-decoration: none;
+
+}
