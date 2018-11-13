@@ -21,3 +21,27 @@ body
  h2 {
   font-family: Courier New;
   }
+
+  .lien-concerts
+  {
+  	text-align: right;
+  	color: white;
+  	position: absolute;
+    right: 1%;
+    bottom: 95%;
+  }
+
+  
+
+.lien-concerts:visited 
+{
+    color: white;
+}
+
+.lien-concerts:active
+{
+    color: white;
+}
+
+
+
